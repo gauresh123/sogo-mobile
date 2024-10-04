@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577840032711",
+    "project_id": "final-otp-validation",
+    "storage_bucket": "final-otp-validation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577840032711:android:0b2ba313b6f175c8dbc7e2",
+        "android_client_info": {
+          "package_name": "com.seller.sogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577840032711-g45qm295qul6ieal7nt29ep7n65seoof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRc_cSelUyBMfPJslEOjy7FYcZBkYhLO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577840032711-g45qm295qul6ieal7nt29ep7n65seoof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
